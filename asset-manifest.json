@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/emircanmert.github.io/static/css/main.bf538fe7.css",
+    "main.js": "/emircanmert.github.io/static/js/main.118a6b74.js",
+    "static/media/1.jpeg": "/emircanmert.github.io/static/media/1.112a695f2a8fce281d66.jpeg",
+    "index.html": "/emircanmert.github.io/index.html",
+    "main.bf538fe7.css.map": "/emircanmert.github.io/static/css/main.bf538fe7.css.map",
+    "main.118a6b74.js.map": "/emircanmert.github.io/static/js/main.118a6b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.118a6b74.js"
+  ]
+}
